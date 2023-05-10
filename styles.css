@@ -3,6 +3,9 @@ body{
 	background-color: #ffffcc;
 	
 	}
+h2{
+	text-align: center;
+}
 .header{
 	width: 100%;
 	background-image: linear-gradient(to right,#e0e0eb,  #79d279, #e0e0eb);
