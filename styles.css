@@ -1,0 +1,123 @@
+
+body{
+	background-color: #ffffcc;
+	
+	}
+.header{
+	width: 100%;
+	background-image: linear-gradient(to right,#e0e0eb,  #79d279, #e0e0eb);
+}
+
+.nav-link{color: white!important;}
+.nav-link:hover{color: red!important;}
+.carousel {
+	margin: auto;
+	width: 1000px;
+	height: 800px;
+}
+.carousel-inner, .carousel-item {
+	width: 1000px;
+	height: 800px;
+}
+.btn-outline-success{
+	color:white;
+}
+.container {
+ 	display: flex;
+ 	justify-content: center;
+}
+.image{
+	display:flex;
+	float: left;	
+    justify-content: space-evenly;
+    padding: 50px;
+    text-align: center;
+    font-weight: 700;
+    display: inline-block;
+    
+}
+.image2{
+	
+	display: flex;
+	float: right;
+	padding: 50px;
+	text-align: center;
+	font-weight: 700;
+	display: inline-block;
+}
+.feature{
+	text-align: center;
+}
+.custom{
+	text-align: center;
+	display: inline-block;
+}
+
+.footer{
+	text-align: center;
+}
+.our{
+	box-sizing: border-box;
+	text-align: center;
+	font-weight: 500;
+}
+h1{
+	text-align: center;
+}
+.face{
+	display: flex;
+	justify-content: center;
+}
+.friendly .col{
+	width: 500px;
+	float: left;
+	font-weight: 600;
+	text-align: center;
+	padding: 50px;
+}
+.mission .col{
+	width: 500px;
+	float: left;
+	font-weight: 600;
+	text-align: center;
+	padding: 50px;
+}
+.candleScents{
+	background-color: #e0e0d1;
+
+}
+.border-right {
+    border-right: 1px solid burlywood;
+    border:solid burlywood;
+}
+.candleScents h2{
+	color:#cc9900;
+	Width: 350px;
+	height: 20px;
+	float:left;
+	font-weight: 800;
+	text-align: left;
+	padding: 50px;
+}
+.candleScents p{
+	color: #cc9900;
+	width: 500px;
+	height: 145px;
+	float: left;
+	font-weight: 600;
+	text-align: left;
+	padding: 50px;
+}
+.candlePage{
+	display: flex;
+	justify-content: center;
+}
+.candlePage h2{
+	text-align: center;
+}
+.source{
+	text-align: center;
+	font-weight: 500;
+	list-style: none;
+	height: 700px;
+}
